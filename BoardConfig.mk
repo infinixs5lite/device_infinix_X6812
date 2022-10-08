@@ -137,7 +137,7 @@ BOARD_USES_MTK_HARDWARE := true
 
 ## TWRP-Specific configuration
 TW_THEME := portrait_hdpi
-TW_DEVICE_VERSION := Jprimero15_build
+TW_DEVICE_VERSION := Twrp 3.7 build
 RECOVERY_SDCARD_ON_DATA := true
 TARGET_USES_MKE2FS := true
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
